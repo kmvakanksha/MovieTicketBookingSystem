@@ -30,7 +30,7 @@ This project demonstrates basic GUI design, event handling, and simple state man
 ![Seat Layout](images/Screenshot5.png)
 
 ### Booking Confirmed
-![Booking Confirmed](images/Screenshot1.png)
+![Booking Confirmed](https://github.com/kmvakanksha/MovieTicketBookingSystem/blob/main/MovieTicketBooking/images/Screenshot1.png)
 
 ### Clear Selection
 ![Clear Selection](images/Screenshot2.png)
