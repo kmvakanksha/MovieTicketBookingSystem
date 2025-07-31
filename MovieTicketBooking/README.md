@@ -1,18 +1,44 @@
-## Getting Started
+# 🎬 Movie Ticket Booking System (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Java Swing GUI application to book movie tickets. The Movie Ticket Booking System is a Java Swing-based desktop application that allows users to select and book seats for a movie in a theatre. The system provides a user-friendly interface where available seats are shown in green, selected seats in yellow, and booked seats in red. If all the seats are booked then it displays HouseFull so that whenever we try to book some more tickets even after housefull it displays no tickets available.
 
-## Folder Structure
+Users can:
 
-The workspace contains two folders by default, where:
+Select and confirm multiple seats at once.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Reset their current seat selections before booking.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Cancel previously booked seats.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+View total ticket cost in real-time.
 
-## Dependency Management
+See a Housefull notification when all seats are booked, preventing further bookings.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This project demonstrates basic GUI design, event handling, and simple state management in Java. It is ideal for beginners learning Java Swing and building interactive desktop applications.
+
+## ✨ Features
+- Green = Available
+- Yellow = Selected
+- Red = Booked
+- Confirm bookings
+- Reset selection
+- Cancel booked seats
+- Shows "Housefull" when no tickets available
+
+## 📸 Screenshots
+### Seat Layout
+![Seat Layout](images/Screenshot5.png)
+
+### Booking Confirmed
+![Booking Confirmed](images/Screenshot1.png)
+
+### Clear Selection
+![Clear Selection](images/Screenshot2.png)
+
+### HouseFull 
+![HouseFull Scenario](images/Screenshot4.png)
+
+## 🚀 How to Run
+```bash
+javac MovieTicketBooking.java
+java MovieTicketBooking
