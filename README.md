@@ -13,16 +13,16 @@ A simple Java Swing GUI application to book movie tickets.
 
 ## 📸 Screenshots
 ### Seat Layout
-![Seat Layout](images/Screenshot5.png)
+![Seat Layout](https://github.com/kmvakanksha/MovieTicketBookingSystem/blob/main/MovieTicketBooking/images/Screenshot5.png)
 
 ### Booking Confirmed
-![Booking Confirmed](images/Screenshot1.png)
+![Booking Confirmed](https://github.com/kmvakanksha/MovieTicketBookingSystem/blob/main/MovieTicketBooking/images/Screenshot1.png)
 
 ### Clear Selection
-![Clear Selection](images/Screenshot2.png)
+![Clear Selection](https://github.com/kmvakanksha/MovieTicketBookingSystem/blob/main/MovieTicketBooking/images/Screenshot2.png)
 
 ### HouseFull 
-![HouseFull Scenario](images/Screenshot4.png)
+![HouseFull Scenario](https://github.com/kmvakanksha/MovieTicketBookingSystem/blob/main/MovieTicketBooking/images/Screenshot4.png)
 
 ## 🚀 How to Run
 ```bash
